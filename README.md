@@ -4,14 +4,14 @@ Hello there!
  
  I bring data to life through interactive dashboards, transforming insights into actionable stories that drive impactful decisions.
 
-𝗠𝘆 𝗰𝗼𝗿𝗲 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 𝗶𝗻𝗰𝗹𝘂𝗱𝗲:
+🌱𝗠𝘆 𝗰𝗼𝗿𝗲 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 𝗶𝗻𝗰𝗹𝘂𝗱𝗲:
 
 ➜𝗕𝗜 & 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀 - Advanced Excel, Power BI, Tableau
 ➜𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 - Python 
 ➜𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 - My SQL Server
 ➜𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - Google Sheets, MS Office, PowerPoint, Canva, Notion, Communication, Storytelling, Attention to Detail, Presentation.
 
-𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆:
+📚𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆:
 
 ➜ 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Turning complex data into easy-to-understand visuals.
 ➜ 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Digging into the numbers to uncover meaningful trends.
