@@ -17,7 +17,9 @@ Hello there!
 <a href="https://www.kaggle.com/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[durgaprasad9392](https://www.kaggle.com/anandakrishh)" height="30" width="40" /></a>
 <a href="https://instagram.com/by.krishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.krishh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandakrishh" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://www.linkedin.com/in/anandakrishh" height="30" width="40" /></a>
+<a href="mailto:ananda.krishh@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email: ananda.krishh@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: ananda.krishh@gmail.com
