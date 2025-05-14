@@ -11,15 +11,14 @@ Hello there!
 ➜𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 - My SQL Server
 ➜𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - Google Sheets, MS Office, PowerPoint, Canva, Notion, Communication, Storytelling, Attention to Detail, Presentation.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let’s connect and explore how we can collaborate, grow, and succeed together!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandakrishh" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[durgaprasad9392](https://www.kaggle.com/anandakrishh)" height="30" width="40" /></a>
 <a href="https://instagram.com/by.krishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.krishh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandakrishh" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://www.linkedin.com/in/anandakrishh" height="30" width="40" /></a>
 </p>
-
-Let’s connect and explore how we can collaborate, grow, and succeed together!
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: ananda.krishh@gmail.com
 
