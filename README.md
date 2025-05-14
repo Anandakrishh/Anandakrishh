@@ -20,8 +20,6 @@ Hello there!
 ➜ 𝗗𝗮𝘁𝗮 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴: Bringing data to life through compelling narratives.
 ➜ 𝗦𝘁𝗮𝗸𝗲𝗵𝗼𝗹𝗱𝗲𝗿 𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Enhancing stakeholder engagement by delivering clear and actionable insights
 
-★ Becoming 𝗧𝗢𝗣 𝟭% Data analyst 
-
 Let’s connect and explore how we can collaborate, grow, and succeed together!
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: ananda.krishh@gmail.com
