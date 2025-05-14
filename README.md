@@ -13,11 +13,11 @@ Hello there!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@durga_prasad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@durga_prasad10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sampatirao-durga-prasad-677177230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sampatirao-durga-prasad-677177230" height="30" width="40" /></a>
-<a href="https://kaggle.com/durgaprasad9392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgaprasad9392" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_durga_sampatirao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_durga_sampatirao" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/durgaprasad93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durgaprasad93" height="30" width="40" /></a>
+<a href="https:https://anandhakrishnanportfolio.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anandakrishh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[durgaprasad9392](https://www.kaggle.com/anandakrishh)" height="30" width="40" /></a>
+<a href="https://instagram.com/by.krishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.krishh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anandakrishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandakrishh" height="30" width="40" /></a>
 </p>
 
 Let’s connect and explore how we can collaborate, grow, and succeed together!
