@@ -11,14 +11,14 @@ Hello there!
 ➜𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 - My SQL Server
 ➜𝗔𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - Google Sheets, MS Office, PowerPoint, Canva, Notion, Communication, Storytelling, Attention to Detail, Presentation.
 
-📚𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆:
-
-➜ 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Turning complex data into easy-to-understand visuals.
-➜ 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Digging into the numbers to uncover meaningful trends.
-➜ 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 & 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴: Creating impactful dashboards that tell a story.
-➜ 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲: Using data to drive smart business decisions.
-➜ 𝗗𝗮𝘁𝗮 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴: Bringing data to life through compelling narratives.
-➜ 𝗦𝘁𝗮𝗸𝗲𝗵𝗼𝗹𝗱𝗲𝗿 𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Enhancing stakeholder engagement by delivering clear and actionable insights
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@durga_prasad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@durga_prasad10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sampatirao-durga-prasad-677177230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sampatirao-durga-prasad-677177230" height="30" width="40" /></a>
+<a href="https://kaggle.com/durgaprasad9392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgaprasad9392" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_durga_sampatirao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_durga_sampatirao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/durgaprasad93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durgaprasad93" height="30" width="40" /></a>
+</p>
 
 Let’s connect and explore how we can collaborate, grow, and succeed together!
 
