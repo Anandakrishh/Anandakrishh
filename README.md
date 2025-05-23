@@ -1,6 +1,6 @@
-  <p align="center">
-  <a href="/https://anandhakrishnanportfolio.netlify.app/">
-    <img src="https://github.com/Anandakrishh/Anandakrishh/blob/85f7102508a9226f441e34f5c5af7e6556d3732c/Perfume%20Sales%20(1).jpg" alt="banner" />
+<p align="center">
+  <a href="https://anandhakrishnanportfolio.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Anandakrishh/Anandakrishh/blob/85f7102508a9226f441e34f5c5af7e6556d3732c/Perfume%20Sales%20(1).jpg?raw=true" alt="banner" />
   </a>
 </p>
 
