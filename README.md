@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anandha Krishnan</h1>
+<h1 align="center">Hi, I'm Anandha Krishnan</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+learning+new+thing;Skilled+and+certified+Data+analyst;6%2B+Industry+relevant+projects;Help+companies+make+better+decisions+through+data+" alt="Typing SVG" /></a>
