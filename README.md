@@ -1,6 +1,6 @@
   <p align="center">
   <a href="/https://anandhakrishnanportfolio.netlify.app/">
-    <img src="https://github.com/quiet-node/quiet-node/assets/66233296/54877ed6-93e8-4b73-a7de-6d9ae673a3fc" alt="banner" />
+    <img src="https://github.com/Anandakrishh/Anandakrishh/blob/85f7102508a9226f441e34f5c5af7e6556d3732c/Perfume%20Sales%20(1).jpg" alt="banner" />
   </a>
 </p>
 
