@@ -35,7 +35,6 @@
 ### Programming
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://yourportfolio.com#python)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ### Python libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
